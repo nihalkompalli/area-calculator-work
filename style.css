@@ -1,0 +1,15 @@
+body{
+  font-family:sans-serif;
+  text-align:center;
+  display:flex;
+  align-items:center;
+  color:white;
+  background:green;
+  flex-direction:column;
+}
+span{
+  display:flex;
+  height:20px;
+  align-items:center;
+  padding:10px;
+}
